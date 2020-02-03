@@ -1,7 +1,7 @@
 {
   "name": "rawle51.com",
   "version": "0.1.0",
-  "homepage": "https://rawle51.github.io",
+  "homepage": "http://rawle51.github.io/rawle51.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
